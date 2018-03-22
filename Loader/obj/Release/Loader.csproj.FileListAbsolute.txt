@@ -1,0 +1,6 @@
+F:\VSPROJECTS\Loader\Loader\bin\Release\Loader.exe
+F:\VSPROJECTS\Loader\Loader\bin\Release\Loader.pdb
+F:\VSPROJECTS\Loader\Loader\obj\Release\Loader.csproj.CoreCompileInputs.cache
+F:\VSPROJECTS\Loader\Loader\obj\Release\Loader.exe
+F:\VSPROJECTS\Loader\Loader\obj\Release\Loader.pdb
+F:\VSPROJECTS\Loader\Loader\obj\Release\Loader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+F:\VSPROJECTS\Loader\Loader\bin\Debug\Loader.exe
+F:\VSPROJECTS\Loader\Loader\bin\Debug\Loader.pdb
+F:\VSPROJECTS\Loader\Loader\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+F:\VSPROJECTS\Loader\Loader\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+F:\VSPROJECTS\Loader\Loader\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+F:\VSPROJECTS\Loader\Loader\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+F:\VSPROJECTS\Loader\Loader\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+F:\VSPROJECTS\Loader\Loader\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+F:\VSPROJECTS\Loader\Loader\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+F:\VSPROJECTS\Loader\Loader\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+F:\VSPROJECTS\Loader\Loader\obj\Debug\Loader.exe
+F:\VSPROJECTS\Loader\Loader\obj\Debug\Loader.pdb

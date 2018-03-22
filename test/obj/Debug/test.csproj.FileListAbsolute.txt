@@ -1,0 +1,5 @@
+F:\VSPROJECTS\Loader\test\bin\Debug\test.exe
+F:\VSPROJECTS\Loader\test\bin\Debug\test.pdb
+F:\VSPROJECTS\Loader\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\VSPROJECTS\Loader\test\obj\Debug\test.exe
+F:\VSPROJECTS\Loader\test\obj\Debug\test.pdb
